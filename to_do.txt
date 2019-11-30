@@ -3,7 +3,8 @@
     a. czas trwania prezentacji: 10min -> bardzo wymagający, krótki czas, który jest niewątpliwym wyzwaniem. Proszę go przestrzegać z zegarkiem w ręku i przedstawić to co Waszym zdaniem jest najważniejsze. Umówmy się, że nie przerywamy wystąpienia, a ewentualne pytania zostawiamy na koniec, jeżeli będzie czas.
 
     b. cel: kolejne zadanie pozwalające nam wszystkim ocenić zaangażowanie i umiejętności członków finalnego teamu, z którymi to Wy będziecie pracowali "nad rozwaleniem" właściwych casów konkursowych.
-    c. zadanie: przedstawienie (opis strategii, jej założeń, sygnałów, sposobu testowania) i analiza wyników efektywności (zannualizowana stopa zwrotu, ryzyko, oraz miary zysku ważonego ryzykiem) opracowanej strategii inwestycyjnej, najlepiej w porównaniu z jakimś benchmarkiem:
+    c. zadanie: przedstawienie (opis strategii, jej założeń, sygnałów, sposobu testowania) i analiza wyników efektywności (zannualizowana stopa zwrotu, ryzyko, oraz
+	miary zysku ważonego ryzykiem) opracowanej strategii inwestycyjnej, najlepiej w porównaniu z jakimś benchmarkiem:
   
 	ML or time series model for commodity price forecasting - proszę zbudować model do prognozowania cen RBOB Gasoline. Dane są dostępne na stooq.com.
 
