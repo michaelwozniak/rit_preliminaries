@@ -1,4 +1,4 @@
-1. czas trwania prezentacji: 10min -> bardzo wymagający, krótki czas, który jest niewątpliwym wyzwaniem. Proszę go przestrzegać z zegarkiem w ręku i przedstawić to co Waszym zdaniem jest najważniejsze. Umówmy się, że nie przerywamy wystąpienia, a ewentualne pytania zostawiamy na koniec, jeżeli będzie czas.
+1. czas trwania prezentacji: 10min! -> przygotować prezkę
 2. zadanie: przedstawienie (opis strategii, jej założeń, sygnałów, sposobu testowania) i analiza wyników efektywności (zannualizowana stopa zwrotu, ryzyko, oraz
-miary zysku ważonego ryzykiem) opracowanej strategii inwestycyjnej, najlepiej w porównaniu z jakimś benchmarkiem (najprostrza strategia kup i brak sprzedaży)
+	miary zysku ważonego ryzykiem) opracowanej strategii inwestycyjnej, najlepiej w porównaniu z jakimś benchmarkiem (najprostrza strategia kup i brak sprzedaży)
 3. założenia strategii -> dowolne, racjonalne, opracowane na bazie znanych strategii inwestycyjnych lub/i istniejącego stanu wiedzy: książki, artykuły, opracowania, analizy,
